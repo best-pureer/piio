@@ -1,9 +1,14 @@
 # piio
 Raspberry Pi pins tools
 
+installation:
+```sh
+pip3 install wiringpi
+```
+
 usage:
-```python
-python piio.py
+```shell
+python3 piio.py
 ```
 
 ![image](show.png)
